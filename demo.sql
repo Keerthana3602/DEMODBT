@@ -1,1 +1,1 @@
-select Hello git as message;
+select 'Hello git' as message;
